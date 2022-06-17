@@ -1,4 +1,5 @@
 # Prediction-du-box-office
+Il s'agit du projet 8 de la formation DATA Analyste de chez OpenClassRooms
 
 ### Lecture des dashboards
 
